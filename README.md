@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Biplob Dash</h1>
-<h3 align="center">Software Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobdash&label=Profile%20views&color=0e75b6&style=flat" alt="biplobdash" /> </p>
 
