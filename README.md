@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobdash&label=Profile%20views&color=0e75b6&style=flat" alt="biplobdash" /> </p>
 
-- 🔭 I’m currently working on **Software Engineer**
+- 🔭 I’m currently working on **Junior Software Engineer**
 
 - 🌱 I’m currently learning **Django**
 
