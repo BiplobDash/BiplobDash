@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Biplob Dash</h1>
+<h3 align="center">I'm a Learner and Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobdash&label=Profile%20views&color=0e75b6&style=flat" alt="biplobdash" /> </p>
 
-- 🔭 I’m currently working on **Junior Software Engineer**
-
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and Selenium**
 
 - 📫 How to reach me **biplobdash044@gmail.com**
+
+- ⚡ Fun fact: **I love to solve programming problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/biplobdash.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biplobdash.official" height="30" width="40" /></a>
 <a href="https://instagram.com/biplobdash.official_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biplobdash.official_20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/biplobdash420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/biplobdash420" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/biplob-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/biplob-dash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user2165ay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user2165ay/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/biplobdash420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="biplobdash420" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/biplob-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="biplob-dash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user2165ay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2165ay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
