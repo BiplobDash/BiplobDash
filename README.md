@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplobdash&label=Profile%20views&color=0e75b6&style=flat" alt="biplobdash" /> </p>
 
-- 🌱 I’m currently learning **Django and Selenium**
+- 🌱 I’m currently learning **Flutter and Django**
 
 - 📫 How to reach me **biplobdash044@gmail.com**
 
